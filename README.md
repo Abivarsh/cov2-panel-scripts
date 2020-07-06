@@ -20,7 +20,7 @@ To plot the violin plots, use the script SHM_Plots_py.py. It takes a list of per
 
 Examples of these input files are COV2-SHM-HC.csv and COV2-SHM-LC.csv.
 
-#### SHM Violin Plots
+#### VJ Heatmaps 
 
 To plot the heatmaps use the script VHeatmaps.py. It takes a the zscore value of a V-J combination grid - separate for the heavy and light chains, and plots the zscores as a heat map. 
 
